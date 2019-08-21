@@ -1,2 +1,4 @@
 system 
 mehod test();
+out print
+

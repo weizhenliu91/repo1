@@ -5,10 +5,8 @@
 aaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbb
 ccccccccccccccccccc
-<<<<<<< HEAD
 name zhangsan
 age 18
-=======
 add some congtent 
 psvm
->>>>>>> 226f2cb5261e72a705ee4bf7882198ed4233182c
+
